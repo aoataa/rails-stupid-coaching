@@ -1,0 +1,32 @@
+.inputbtn {
+  padding: 10px;
+}
+
+/*
+.btn {
+  display: flex;
+
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.input {
+  padding: 10px;
+}
+
+.submit {
+  color: white;
+  background-color: #347AB8;
+  padding: 10px;
+  border: none;
+}
+*/
+
+.border-0 {
+  border:  none;
+  padding: 0px;
+}
